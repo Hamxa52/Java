@@ -1,0 +1,20 @@
+public classs Escapesequence
+{
+  public static void main(String[] args)
+  {
+   System.out.print("Hello \n world");
+   // \n for new line
+   System.out.println("Hello \t world");
+   // \t for tab spacing
+   System.out.println("welcome \r world");
+   // \r for carrage return
+   System.out.println("hello \b world");
+   // \b for backspace
+   System.out.println("\'Hamza\'");
+   // \' for single quote
+   System.out.println("\"Hamza\"");
+   // \" for double quote
+   System.out.println("\\ -This is backslash");
+   // \\ for backslash
+  }
+}  
